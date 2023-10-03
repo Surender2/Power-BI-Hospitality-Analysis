@@ -3,7 +3,7 @@
 
 Data Analytics project for Hospitality Domain Analysis, I have completed this project based on my learnings from Codebasics Data Analytics Bootcamp.
 
-Link to Interactive Dashboard
+Link to [Interactive Live Dashboard](https://www.novypro.com/project/atliq-hospitality-analysis---codebasics-data-analytics-bootcamp-power-bi)
 
 ## Problem Statement
 
