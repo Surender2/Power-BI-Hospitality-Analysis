@@ -1,7 +1,7 @@
 
 # Power BI - AtliQ Hospitality Analysis 
 
-This is a project which I have done as part of Codebasics Analytics Bootcamp
+Data Analytics project for Hospitality Domain Analysis, I have completed this project based on my learnings from Codebasics Data Analytics Bootcamp.
 
 Link to Interactive Dashboard
 
