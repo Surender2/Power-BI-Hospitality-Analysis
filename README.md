@@ -25,9 +25,9 @@ Their revenue management team had decided to hire a 3rd party service provider t
 ![Alt text](https://user-images.githubusercontent.com/114329084/271995774-eaf998e2-fc76-4b9a-969c-2e4a2d429f26.png)
 ## AtliQ Hospitality Analysis - Weekly wise
 
-![Alt text](https://user-images.githubusercontent.com/114329084/272003637-c69fc5d1-420d-401f-b836-7ffe8c1dcadf.png)
+![Alt text](https://user-images.githubusercontent.com/114329084/272148497-676ed438-89e3-486d-8e9f-61c70f291f95.png)
 ## AtliQ Hospitality Analysis - Monthly wise
-![Alt text](https://user-images.githubusercontent.com/114329084/272003718-c36e9a60-3f6f-4b1a-b2e7-a9e56d149acd.png)
+![Alt text](https://user-images.githubusercontent.com/114329084/272148839-9122ac76-e130-4521-baf2-752d94945d87.png)
 ## Takeaway from this project
 
 - I recently started learning about data visualization, drawing inspiration from ([Naveen](https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI)) project on GitHub & I used his methods to create two visuals to showcase the useful insights.
